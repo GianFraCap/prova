@@ -1,4 +1,4 @@
-Creation of Script "run_analysis.R"
+PROVA Creation of Script "run_analysis.R"
 #INPUT: "URL" URL pointing the training and test sets
 STEP 1:
 A) Download files for analysis and load appropriate libraries
